@@ -1,0 +1,21 @@
+h1{
+	background-color: green;
+	color: yellow;
+	border: 5px;
+	font-size: 50px;
+}
+h2{
+	font-weight: 20px;
+	font-size: 30px;
+	color: blue;
+}
+p{
+	background-color: maroon;
+	color: white;
+	font-size: 25px;
+}
+.pa{
+	color: black;
+	font-size: 30px
+
+}
